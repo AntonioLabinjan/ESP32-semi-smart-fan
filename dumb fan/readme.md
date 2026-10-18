@@ -1,0 +1,1 @@
+Button-operated fan
